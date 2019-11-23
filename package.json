@@ -1,0 +1,16 @@
+{
+  "name": "project-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "sass": "^1.23.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "sass --watch sass/index.scss index.css "
+  },
+  "author": "",
+  "license": "ISC"
+}
